@@ -72,6 +72,7 @@ requests==2.31.0
 requests-oauthlib==2.0.0
 rich==13.8.1
 rsa==4.9.1
+scikit-learn==1.0.2
 scipy==1.4.1
 six==1.17.0
 smmap==5.0.2
@@ -95,4 +96,3 @@ watchdog==3.0.0
 Werkzeug==2.2.3
 wrapt==1.16.0
 zipp==3.15.0
-git+https://github.com/qubvel/classification_models.git
