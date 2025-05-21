@@ -12,3 +12,4 @@ aiortc
 cachetools==4.2.4
 protobuf==3.19.6
 pyyaml==5.1.2
+STREAMLIT_WATCHDOG_MODE=none
