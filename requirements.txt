@@ -81,7 +81,7 @@ tenacity==8.2.3
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.6.0
-tensorflow-estimator==2.2.0
+tensorflow-estimator==2.6.0
 termcolor==2.3.0
 toml==0.10.2
 toolz==0.12.1
