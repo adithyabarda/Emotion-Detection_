@@ -80,7 +80,7 @@ streamlit-webrtc==0.44.7
 tenacity==8.2.3
 tensorboard==2.6.0
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.6.0
+tensorflow==2.11.0
 tensorflow-estimator==2.6.0
 termcolor==2.3.0
 toml==0.10.2
